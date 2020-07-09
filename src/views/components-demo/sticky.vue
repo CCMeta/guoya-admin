@@ -51,7 +51,7 @@
       <div>placeholder</div>
       <div>placeholder</div>
       <div>placeholder</div>
-      <sticky :sticky-top="200">
+      <sticky :sticky-bottom="200">
         <el-button type="primary"> placeholder</el-button>
       </sticky>
       <div>placeholder</div>
